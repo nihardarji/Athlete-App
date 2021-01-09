@@ -1,0 +1,3 @@
+{
+    "MongoURI" : "mongodb+srv://nihar:nihar@sports-app.ungh1.mongodb.net/sports?retryWrites=true&w=majority"
+}
